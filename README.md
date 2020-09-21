@@ -1,10 +1,18 @@
 # What is DSTracker?
 - lightweight app that can keep track and store your portfolio of stocks.
-- 
+
 # How it began?
 - Started as a small summer project to learn GUI programming but grew more than originally expected!
 
 # Preview / Screenshots
+![alt text](https://github.com/kuckikirukia/DSTracker/blob/master/Images/graph4.png)
+<br>
+![alt text](https://github.com/kuckikirukia/DSTracker/blob/master/Images/graph2.png)
+<br>
+![alt text](https://github.com/kuckikirukia/DSTracker/blob/master/Images/graph3.png)
+<br>
+![alt text](https://github.com/kuckikirukia/DSTracker/blob/master/Images/graph.png)
+
 
 # Installation
 - Download or clone the repository to a local directory on your OS. 
