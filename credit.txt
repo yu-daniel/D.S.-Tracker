@@ -1,0 +1,20 @@
+button hover effect
+https://stackoverflow.com/questions/49888623/tkinter-hovering-over-button-color-change
+
+treeview styling
+https://stackoverflow.com/questions/32051780/how-to-edit-the-style-of-a-heading-in-treeview-python-ttk
+
+about window
+https://stackoverflow.com/questions/15306631/how-do-i-create-child-windows-with-python-tkinter
+
+window resize
+https://stackoverflow.com/questions/37446710/how-to-make-a-tkinter-window-not-resizable
+
+https://stackoverflow.com/questions/3899980/how-to-change-the-font-size-on-a-matplotlib-plot
+
+sorting columns
+https://stackoverflow.com/questions/1966929/tk-treeview-column-sort
+
+fixed_map()
+https://bugs.python.org/issue36468
+https://core.tcl-lang.org/tk/tktview?name=509cafafae
